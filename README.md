@@ -15,3 +15,9 @@
 文章管理功能：  
 1）管理员可以新增、修改、删除文章，并可单个删除或批量删除。  
 2）根据文章名称、作者和文章类型进行查询。
+![image](https://github.com/Remi-hzt/ProductDesign/assets/43429577/5af7f22b-ad6d-45af-a875-06b2e76b36da)
+![image](https://github.com/Remi-hzt/ProductDesign/assets/43429577/b9fe9bdd-119a-47c6-b08a-0f262897c13b)
+![image](https://github.com/Remi-hzt/ProductDesign/assets/43429577/829c6f9f-5616-4a51-ae3e-54a261ba0a79)
+![image](https://github.com/Remi-hzt/ProductDesign/assets/43429577/ce114d97-a9ba-4ab7-9868-fb3b2ea231ff)
+![image](https://github.com/Remi-hzt/ProductDesign/assets/43429577/98645eb3-8702-402e-b117-af614bdb0750)
+![image](https://github.com/Remi-hzt/ProductDesign/assets/43429577/74a775e9-c79e-4474-8cae-b209fb4ef431)
